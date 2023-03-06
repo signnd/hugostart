@@ -1,5 +1,6 @@
 ---
 title: "Intro"
+slug: "introduction"
 date: 2023-03-06T12:44:43+08:00
 draft: false
 ---
