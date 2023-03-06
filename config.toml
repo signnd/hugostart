@@ -1,4 +1,4 @@
-baseURL = 'http://signnd.github.io/hugostart/'
+baseURL = 'https://signnd.github.io/hugostart/'
 languageCode = 'en-us'
 title = 'signnd and Hugo'
 theme = 'ananke'
