@@ -1,0 +1,17 @@
+name: signnd
+# avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
+bio: 'Trying out hugo'
+company: No company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
+location: Indonesia # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
+# about: https://razonyang.com # The external about page. The internal about page will be used if not set.
+params: {
+  # layout: compact
+}
+# See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
+social:
+  email: ngrmerthaj@gmail.com
+  github: signnd
+  twitter: no_twitter
+  patreon: no_patreon
+  paypal: signed
+  rss: "" # Remove RSS
