@@ -1,21 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>signnd and Hugo</title>
-    <link>https://signnd.github.io/hugostart/</link>
-    <description>Recent content on signnd and Hugo</description>
+    <title>Home on signnd</title>
+    <link>https://hbs-skeleton.netlify.app/</link>
+    <description>Recent content in Home on signnd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 12:44:43 +0800</lastBuildDate><atom:link href="https://signnd.github.io/hugostart/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2023-{year} All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 06 Mar 2023 12:44:43 +0800</lastBuildDate><atom:link href="https://hbs-skeleton.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro</title>
-      <link>https://signnd.github.io/hugostart/posts/my-first-post/</link>
+      <link>https://hbs-skeleton.netlify.app/intro/</link>
       <pubDate>Mon, 06 Mar 2023 12:44:43 +0800</pubDate>
       
-      <guid>https://signnd.github.io/hugostart/posts/my-first-post/</guid>
+      <guid>https://hbs-skeleton.netlify.app/intro/</guid>
       <description>Introduction Ini adalah situs yang dibuat dengan mengikuti Hugo Docs.
 Pengen tau aja seberapa jauh dokumentasi yang ada bisa membimbing aku yang waktu itu pernah nyoba hugo, tapi gak langsung ngerti gara-gara langsung pake tema yang susah hehe.
 Mungkin aku perlu membiasakan diri dengan per-static site-an ini.</description>
+    </item>
+    
+    <item>
+      <title>Install on Arch Linux</title>
+      <link>https://hbs-skeleton.netlify.app/docs/installation/linux/archlinux/</link>
+      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
+      
+      <guid>https://hbs-skeleton.netlify.app/docs/installation/linux/archlinux/</guid>
+      <description>This guide show you how to install on Arch Linux.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://hbs-skeleton.netlify.app/docs/introduction/</link>
+      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
+      
+      <guid>https://hbs-skeleton.netlify.app/docs/introduction/</guid>
+      <description>A fast, responsive and feature-rich Hugo theme for blog and documentations site.</description>
+    </item>
+    
+    <item>
+      <title>Install on Ubuntu</title>
+      <link>https://hbs-skeleton.netlify.app/docs/installation/linux/ubuntu/</link>
+      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
+      
+      <guid>https://hbs-skeleton.netlify.app/docs/installation/linux/ubuntu/</guid>
+      <description>This guide show you how to install on Ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Install on Windows</title>
+      <link>https://hbs-skeleton.netlify.app/docs/installation/windows/</link>
+      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
+      
+      <guid>https://hbs-skeleton.netlify.app/docs/installation/windows/</guid>
+      <description>This guide show you how to install on Windows.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hbs-skeleton.netlify.app/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbs-skeleton.netlify.app/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/yuin/goldmark https://github.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://hbs-skeleton.netlify.app/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbs-skeleton.netlify.app/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offline</title>
+      <link>https://hbs-skeleton.netlify.app/offline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbs-skeleton.netlify.app/offline/</guid>
+      <description></description>
     </item>
     
   </channel>
