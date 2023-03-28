@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hbs-skeleton.netlify.app/blog/</loc>
+    <lastmod>2023-03-06T12:44:43+08:00</lastmod>
+  </url><url>
+    <loc>https://hbs-skeleton.netlify.app/blog/introduction/</loc>
+    <lastmod>2023-03-06T12:44:43+08:00</lastmod>
+  </url><url>
     <loc>https://hbs-skeleton.netlify.app/</loc>
     <lastmod>2023-03-06T12:44:43+08:00</lastmod>
     <xhtml:link
@@ -14,12 +20,6 @@
                 hreflang="en"
                 href="https://hbs-skeleton.netlify.app/"
                 />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/posts/introduction/</loc>
-    <lastmod>2023-03-06T12:44:43+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/posts/</loc>
-    <lastmod>2023-03-06T12:44:43+08:00</lastmod>
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/tags/arch-linux/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
@@ -99,75 +99,6 @@
     <loc>https://hbs-skeleton.netlify.app/docs/installation/windows/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/authors/</loc>
-    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/authors/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/crop/</loc>
-    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/fill/</loc>
-    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/filters/</loc>
-    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/fit/</loc>
-    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/categories/image/</loc>
-    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/news/2022/07/more-image-processing-methods/</loc>
-    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/series/news/</loc>
-    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/news/</loc>
-    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/news/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/authors/razonyang/</loc>
-    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/authors/razonyang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/authors/razonyang/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/</loc>
-    <lastmod>2022-04-17T16:35:29+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/readme/</loc>
-    <lastmod>2022-04-17T16:35:29+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/readme/</loc>
-    <lastmod>2022-04-17T16:35:29+08:00</lastmod>
-  </url><url>
     <loc>https://hbs-skeleton.netlify.app/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -195,6 +126,18 @@
                 href="https://hbs-skeleton.netlify.app/archives/"
                 />
   </url><url>
+    <loc>https://hbs-skeleton.netlify.app/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hbs-skeleton.netlify.app/zh-cn/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbs-skeleton.netlify.app/authors/"
+                />
+  </url><url>
     <loc>https://hbs-skeleton.netlify.app/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -207,6 +150,18 @@
                 href="https://hbs-skeleton.netlify.app/contact/"
                 />
   </url><url>
+    <loc>https://hbs-skeleton.netlify.app/news/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hbs-skeleton.netlify.app/zh-cn/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbs-skeleton.netlify.app/news/"
+                />
+  </url><url>
     <loc>https://hbs-skeleton.netlify.app/offline/</loc>
     <xhtml:link
                 rel="alternate"
@@ -217,6 +172,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hbs-skeleton.netlify.app/offline/"
+                />
+  </url><url>
+    <loc>https://hbs-skeleton.netlify.app/authors/razonyang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hbs-skeleton.netlify.app/zh-cn/authors/razonyang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbs-skeleton.netlify.app/authors/razonyang/"
                 />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/search/</loc>

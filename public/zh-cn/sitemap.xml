@@ -62,16 +62,16 @@
                 href="https://hbs-skeleton.netlify.app/zh-cn/authors/razonyang/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/zh-cn/series/</loc>
+    <loc>https://hbs-skeleton.netlify.app/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/series/"
+                href="https://hbs-skeleton.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/series/"
+                href="https://hbs-skeleton.netlify.app/zh-cn/tags/"
                 />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/zh-cn/categories/</loc>
@@ -98,6 +98,18 @@
                 href="https://hbs-skeleton.netlify.app/zh-cn/archives/"
                 />
   </url><url>
+    <loc>https://hbs-skeleton.netlify.app/zh-cn/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbs-skeleton.netlify.app/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hbs-skeleton.netlify.app/zh-cn/contact/"
+                />
+  </url><url>
     <loc>https://hbs-skeleton.netlify.app/zh-cn/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -122,28 +134,16 @@
                 href="https://hbs-skeleton.netlify.app/zh-cn/news/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/zh-cn/tags/</loc>
+    <loc>https://hbs-skeleton.netlify.app/zh-cn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/"
+                href="https://hbs-skeleton.netlify.app/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/tags/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/zh-cn/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/contact/"
+                href="https://hbs-skeleton.netlify.app/zh-cn/series/"
                 />
   </url>
 </urlset>
