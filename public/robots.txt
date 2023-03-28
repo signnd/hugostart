@@ -1,1 +1,2 @@
-User-agent: *
+User-Agent: *
+Sitemap: https://hbs-skeleton.netlify.app/sitemap.xml

@@ -20,42 +20,6 @@ Mungkin aku perlu membiasakan diri dengan per-static site-an ini.</description>
     </item>
     
     <item>
-      <title>Install on Arch Linux</title>
-      <link>https://hbs-skeleton.netlify.app/docs/installation/linux/archlinux/</link>
-      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://hbs-skeleton.netlify.app/docs/installation/linux/archlinux/</guid>
-      <description>This guide show you how to install on Arch Linux.</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://hbs-skeleton.netlify.app/docs/introduction/</link>
-      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://hbs-skeleton.netlify.app/docs/introduction/</guid>
-      <description>A fast, responsive and feature-rich Hugo theme for blog and documentations site.</description>
-    </item>
-    
-    <item>
-      <title>Install on Ubuntu</title>
-      <link>https://hbs-skeleton.netlify.app/docs/installation/linux/ubuntu/</link>
-      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://hbs-skeleton.netlify.app/docs/installation/linux/ubuntu/</guid>
-      <description>This guide show you how to install on Ubuntu.</description>
-    </item>
-    
-    <item>
-      <title>Install on Windows</title>
-      <link>https://hbs-skeleton.netlify.app/docs/installation/windows/</link>
-      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://hbs-skeleton.netlify.app/docs/installation/windows/</guid>
-      <description>This guide show you how to install on Windows.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://hbs-skeleton.netlify.app/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>

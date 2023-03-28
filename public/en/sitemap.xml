@@ -21,71 +21,8 @@
     <loc>https://hbs-skeleton.netlify.app/intro/</loc>
     <lastmod>2023-03-06T12:44:43+08:00</lastmod>
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/arch-linux/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/installation/linux/archlinux/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/series/guide/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/categories/installation/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/installation/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/introduction/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/linux/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/installation/linux/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/ubuntu/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/installation/linux/ubuntu/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/windows/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/docs/installation/windows/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
     <loc>https://hbs-skeleton.netlify.app/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/archives/2022/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/archives/2022/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/archives/2022/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/archives/"
-                />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/contact/</loc>
     <xhtml:link
@@ -97,18 +34,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hbs-skeleton.netlify.app/contact/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/news/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/news/"
                 />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/offline/</loc>

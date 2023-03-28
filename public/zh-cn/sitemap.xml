@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hbs-skeleton.netlify.app/zh-cn/archives/2022/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/archives/2022/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/archives/2022/"
-                />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/zh-cn/</loc>
     <xhtml:link
@@ -51,16 +41,6 @@
                 />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/zh-cn/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/archives/"
-                />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/zh-cn/contact/</loc>
     <xhtml:link
@@ -87,15 +67,5 @@
                 />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/zh-cn/news/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/news/"
-                />
   </url>
 </urlset>
