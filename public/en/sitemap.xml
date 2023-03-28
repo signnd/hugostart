@@ -5,9 +5,6 @@
     <loc>https://hbs-skeleton.netlify.app/blog/</loc>
     <lastmod>2023-03-06T12:44:43+08:00</lastmod>
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/blog/introduction/</loc>
-    <lastmod>2023-03-06T12:44:43+08:00</lastmod>
-  </url><url>
     <loc>https://hbs-skeleton.netlify.app/</loc>
     <lastmod>2023-03-06T12:44:43+08:00</lastmod>
     <xhtml:link
@@ -21,24 +18,14 @@
                 href="https://hbs-skeleton.netlify.app/"
                 />
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/arch-linux/</loc>
+    <loc>https://hbs-skeleton.netlify.app/intro/</loc>
+    <lastmod>2023-03-06T12:44:43+08:00</lastmod>
+  </url><url>
+    <loc>https://hbs-skeleton.netlify.app/blog/arch-linux/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/docs/installation/linux/archlinux/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/categories/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/categories/"
-                />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/docs/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
@@ -55,45 +42,19 @@
     <loc>https://hbs-skeleton.netlify.app/docs/introduction/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/linux/</loc>
+    <loc>https://hbs-skeleton.netlify.app/blog/linux/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/docs/installation/linux/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/series/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/series/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/tags/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/ubuntu/</loc>
+    <loc>https://hbs-skeleton.netlify.app/blog/ubuntu/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/docs/installation/linux/ubuntu/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://hbs-skeleton.netlify.app/tags/windows/</loc>
+    <loc>https://hbs-skeleton.netlify.app/blog/windows/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/docs/installation/windows/</loc>
@@ -124,18 +85,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hbs-skeleton.netlify.app/archives/"
-                />
-  </url><url>
-    <loc>https://hbs-skeleton.netlify.app/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hbs-skeleton.netlify.app/zh-cn/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs-skeleton.netlify.app/authors/"
                 />
   </url><url>
     <loc>https://hbs-skeleton.netlify.app/contact/</loc>

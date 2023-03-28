@@ -1,13 +1,40 @@
 {
   "htmlElements": {
     "tags": [
+      "a",
+      "body",
+      "content",
+      "div",
+      "em",
+      "footer",
+      "h1",
+      "h2",
+      "h3",
       "head",
+      "header",
       "html",
+      "i",
+      "li",
       "link",
+      "main",
       "meta",
+      "nav",
+      "p",
+      "script",
+      "small",
+      "span",
+      "style",
+      "time",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "blog-posts",
       "title"
     ],
-    "classes": null,
-    "ids": null
+    "ids": [
+      "introduction",
+      "welcome"
+    ]
   }
 }
